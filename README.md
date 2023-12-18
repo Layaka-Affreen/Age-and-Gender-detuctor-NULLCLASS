@@ -42,9 +42,3 @@ https://talhassner.github.io/home/publication/2015_CVPR
 Gender and Age Classification using OpenCV:
 
 https://www.pyimagesearch.com/2017/11/27/image-deep-learning-python/
-
- 
-
-
-  
-              
